@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>com.codacy</groupId>
 			<artifactId>codacy-coverage-reporter</artifactId>
-			<version>1.0.13</version>
+			<version>6.1.1</version>
 			<classifier>assembly</classifier>
 			<exclusions>
 				<exclusion>
